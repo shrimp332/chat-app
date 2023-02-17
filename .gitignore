@@ -1,2 +1,4 @@
-server/obj/
+server/obj
 server/bin
+client/obj
+client/bin
